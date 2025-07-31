@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Top 10 in XR
-tags: example-tag
+tags: XR,AR,VR,MR
 level: 2
 type: documentation
-pitch: A very brief, one-line description of your project
+pitch: Top 10 security risks for XR
 
 ---
 
