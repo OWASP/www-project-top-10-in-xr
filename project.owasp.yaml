@@ -1,0 +1,21 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Starr Brown
+    email: Starr.Brown63@owasp.org
+    github: mamicidal
+level: 2
+name: OWASP Top 10 in XR
+pitch: Top 10 security risks for XR
+repositories:
+  - name: www-project-top-10-in-xr
+    url: https://github.com/OWASP/www-project-top-10-in-xr
+    description: OWASP Foundation Web Repository
+tags:
+  - XR
+  - AR
+  - VR
+  - MR
+type: documentation
+website: https://owasp.org/www-project-top-10-in-xr
