@@ -1,2 +1,2 @@
 ### Leaders
-* [Starr Brown](mailto:Starr.Brown63@owasp.org)
+* [Starr Brown](mailto:Starr.Brown@owasp.org)
